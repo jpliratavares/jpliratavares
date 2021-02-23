@@ -13,7 +13,7 @@ Sobre Mim:
 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 Linguagem e Ferramentas:
 
-Visual Studio Code
+![Alt Text](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fvisual-studio-code.html&psig=AOvVaw18gN7uzQ8e-R9DKosoJrXa&ust=1614188649423000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiolrrHgO8CFQAAAAAdAAAAABAI)
 
 JavaScript
 
