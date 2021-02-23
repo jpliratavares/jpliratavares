@@ -1,5 +1,4 @@
 Hey 👋, Sou eu o jpliratavares
-jpliratavares Instagram
 
 Olá, me chamo João Pedro, Iniciante na Linguagem da Computação ** Sou apenas um garoto de 13 anos que sonha se tornar um grande Developer em um futuro próximo 🚀
 
