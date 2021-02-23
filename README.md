@@ -9,7 +9,7 @@ Sobre Mim:
 
 👨🏽‍💻 Atualmente me dedico ao uso do JavaScript;
 🌱 Atualmente, estou me aprofundando ao uso do JavaScript e estudando HTML.;
-🤔 Meus interesses são: Aprendizagem por Reforço e Análise de sistemas;
+🤔 Meu interesse no momento é: Análise de sistemas;
 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 Linguagem e Ferramentas:
 
