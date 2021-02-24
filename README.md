@@ -7,12 +7,16 @@ Olá, me chamo João Pedro, Iniciante na Linguagem da Computação ** Sou apenas
 Sobre Mim:
 
 👨🏽‍💻 Atualmente me dedico ao uso do JavaScript;
+
 🌱 Atualmente, estou me aprofundando ao uso do JavaScript e estudando HTML.;
+
 🤔 Meu interesse no momento é: Análise de sistemas;
+
 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+
 Linguagem e Ferramentas:
 
-![Alt Text](https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Ffree%2Fvisual-studio-code.html&psig=AOvVaw18gN7uzQ8e-R9DKosoJrXa&ust=1614188649423000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiolrrHgO8CFQAAAAAdAAAAABAI)
+![Alt Text](https://icon2.cleanpng.com/20180329/joq/kisspng-microsoft-visual-studio-visual-studio-code-source-coder-5abc6e89164c94.7824600715222985050913.jpg)
 
 JavaScript
 
