@@ -1,6 +1,7 @@
 Hey 👋, Sou eu o jpliratavares
 
-Olá, me chamo João Pedro, Iniciante na Linguagem da Computação C# Sou apenas um garoto de 13 anos que sonha se tornar um grande Developer em um futuro próximo 🚀
+Olá, me chamo João Pedro, Iniciante na Linguagem da Computação C#  e bem experiente em JS(JavaScript).
+Sou apenas um garoto de 13 anos que sonha se tornar um grande Developer em um futuro próximo 🚀
 
 ![Alt Text](https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif)
 
