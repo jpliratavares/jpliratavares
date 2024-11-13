@@ -32,7 +32,7 @@ Aqui estão alguns dos projetos em que estou trabalhando ou que já concluí:
 
 ### Conecte-se Comigo
 - 📧 Email: [jpliratavares@gmail.com](mailto:jpliratavares@gmail.com)
-- 💼 LinkedIn: [Seu perfil no LinkedIn (se tiver)]
+- 🤖 Discord: [jpltdev]
 
 ---
 
