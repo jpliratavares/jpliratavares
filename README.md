@@ -1,6 +1,6 @@
 # Hey 👋, Sou o jpliratavares
 
-Olá! Meu nome é João Pedro. Sou iniciante em Ciência da Computação com experiência crescente em JavaScript e C#. Tenho 13 anos e um grande sonho: me tornar um desenvolvedor de destaque no futuro 🚀.
+Olá! Meu nome é João Pedro. Sou iniciante em Ciência da Computação com experiência crescente em JavaScript e C#. Tenho 17 anos e um grande sonho: me tornar um desenvolvedor de destaque no futuro 🚀.
 
 ---
 
