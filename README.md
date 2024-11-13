@@ -24,9 +24,9 @@ Olá! Meu nome é João Pedro. Sou iniciante em Ciência da Computação com exp
 
 ### Projetos
 Aqui estão alguns dos projetos em que estou trabalhando ou que já concluí:
-- [Projeto1](link_do_projeto1): Descrição breve do projeto.
-- [Projeto2](link_do_projeto2): Descrição breve do projeto.
+- [MayaraBot](https://github.com/jpliratavares/MayaraBOT): Um bot de Discord feito em Node.js com funcionalidades de moderação e diversão. **MayaraBot** ajuda a gerenciar servidores com comandos de banimento, silenciamento e gerenciamento de canais, além de oferecer jogos, memes e GIFs para manter o ambiente interativo.
 - Em breve mais projetos!
+
 
 ---
 
