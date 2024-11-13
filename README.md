@@ -1,30 +1,39 @@
-Hey 👋, Sou eu o jpliratavares
+# Hey 👋, Sou o jpliratavares
 
-Olá, me chamo João Pedro, Iniciante na Linguagem da Computação C#  e bem experiente em JS(JavaScript).
-Sou apenas um garoto de 13 anos que sonha se tornar um grande Developer em um futuro próximo 🚀
+Olá! Meu nome é João Pedro. Sou iniciante em Ciência da Computação com experiência crescente em JavaScript e C#. Tenho 13 anos e um grande sonho: me tornar um desenvolvedor de destaque no futuro 🚀.
 
-![Alt Text](https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif)
+---
 
-Sobre Mim:
+### Sobre Mim
+- 🌱 Atualmente me dedicando ao desenvolvimento em **JavaScript**.
+- 🌱 Estudando e aprimorando habilidades em **HTML** e **CSS**.
+- 🔍 Interesses atuais: **Análise de Sistemas** e **Desenvolvimento Web**.
+- 💬 Estou sempre aberto a perguntas e adoro ajudar! Sinta-se à vontade para me contatar.
 
-👨🏽‍💻 Atualmente me dedico ao uso do JavaScript;
+---
 
-🌱 Atualmente, estou me aprofundando ao uso do JavaScript e estudando HTML.;
+### Linguagens e Ferramentas:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
+</p>
 
-🤔 Meu interesse no momento é: Análise de sistemas;
+---
 
-💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+### Projetos
+Aqui estão alguns dos projetos em que estou trabalhando ou que já concluí:
+- [Projeto1](link_do_projeto1): Descrição breve do projeto.
+- [Projeto2](link_do_projeto2): Descrição breve do projeto.
+- Em breve mais projetos!
 
-Linguagem e Ferramentas:
+---
 
-![Alt Text](https://icon2.cleanpng.com/20180329/joq/kisspng-microsoft-visual-studio-visual-studio-code-source-coder-5abc6e89164c94.7824600715222985050913.jpg "Teste")
+### Conecte-se Comigo
+- 📧 Email: [jpliratavares@gmail.com](mailto:jpliratavares@gmail.com)
+- 💼 LinkedIn: [Seu perfil no LinkedIn (se tiver)]
 
-JavaScript
+---
 
-Node.js
-
-Git
-
-GitHub
-
-
+Obrigado por visitar meu perfil! 😄 Estou animado para crescer na área de desenvolvimento e compartilhar meu progresso com vocês!
