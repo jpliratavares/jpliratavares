@@ -25,7 +25,7 @@ Olá! Meu nome é João Pedro. Sou iniciante em Ciência da Computação com exp
 ### Projetos
 Aqui estão alguns dos projetos em que estou trabalhando ou que já concluí:
 - [MayaraBot](https://github.com/jpliratavares/MayaraBOT): Um bot de Discord feito em Node.js com funcionalidades de moderação e diversão. **MayaraBot** ajuda a gerenciar servidores com comandos de banimento, silenciamento e gerenciamento de canais, além de oferecer jogos, memes e GIFs para manter o ambiente interativo.
-- [MDZ Recoil]: Um sistema de correção de recoil para games feito em Python com pyinput e compilado em EXE ao final.
+- [MDZ Recoil](https://github.com/jpliratavares/MDZ-Recoil): Um sistema de correção de recoil para games feito em Python com pyinput e compilado em EXE ao final.
 - Em breve mais projetos!
 
 
