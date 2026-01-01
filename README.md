@@ -45,8 +45,8 @@ Não curto código frágil nem solução mágica. Gosto de entender o sistema in
 
 ## 🚀 Projetos relevantes
 
-- **[MayaraBot](https://github.com/jpliratavares/MayaraBOT)**  
-  Bot de Discord em Node.js com automação, moderação e lógica orientada a eventos.
+- **[LumIA-UFPB]((https://github.com/jpliratavares/LumIA-UFPB))**  
+  Projeto universitário com foco em uso de RAG e LLMs com base treinada referente ao conteúdo informado pelos doscentes.
 
 - **[MDZ Recoil](https://github.com/jpliratavares/MDZ-Recoil)**  
   Sistema em Python para automação de input, compilado em executável.
