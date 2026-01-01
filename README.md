@@ -1,41 +1,72 @@
-# Hey 👋, Sou o jpliratavares
+# João Pedro — jpliratavares
 
-Olá! Meu nome é João Pedro. Sou iniciante em Ciência da Computação com experiência crescente em JavaScript e C#. Tenho 17 anos e um grande sonho: me tornar um desenvolvedor de destaque no futuro 🚀.
+Desenvolvedor focado em **backend, dados e IA aplicada**.  
+Trabalho construindo **sistemas reais**, automações inteligentes e pipelines de dados robustos.
 
----
-
-### Sobre Mim
-- 🌱 Atualmente me dedicando ao desenvolvimento em **JavaScript**.
-- 🌱 Estudando e aprimorando habilidades em **HTML** e **CSS**.
-- 🔍 Interesses atuais: **Análise de Sistemas** e **Desenvolvimento Web**.
-- 💬 Estou sempre aberto a perguntas e adoro ajudar! Sinta-se à vontade para me contatar.
+Não curto código frágil nem solução mágica. Gosto de entender o sistema inteiro.
 
 ---
 
-### Linguagens e Ferramentas:
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/>
-</p>
+## ⚙️ O que eu faço
+- Desenvolvimento **backend** e APIs
+- **Data Engineering** e pipelines (ETL / ELT)
+- Integração e orquestração de **IA e LLMs**
+- Automação de processos e produtos SaaS
+- Arquitetura e organização de sistemas
 
 ---
 
-### Projetos
-Aqui estão alguns dos projetos em que estou trabalhando ou que já concluí:
-- [MayaraBot](https://github.com/jpliratavares/MayaraBOT): Um bot de Discord feito em Node.js com funcionalidades de moderação e diversão. **MayaraBot** ajuda a gerenciar servidores com comandos de banimento, silenciamento e gerenciamento de canais, além de oferecer jogos, memes e GIFs para manter o ambiente interativo.
-- [MDZ Recoil](https://github.com/jpliratavares/MDZ-Recoil): Um sistema de correção de recoil para games feito em Python com pyinput e compilado em EXE ao final.
-- Em breve mais projetos!
+## 🧠 Stack principal
 
+**Linguagens**
+- Python
+- JavaScript / TypeScript
+- SQL
+
+**Backend & APIs**
+- FastAPI
+- Node.js
+- REST / Webhooks
+
+**Dados & IA**
+- Pandas / PySpark
+- FAISS
+- LLMs (OpenAI, ElevenLabs, etc.)
+- Automação com n8n
+- Azure Databricks / Delta Lake
+
+**Infra & Dev**
+- Docker
+- Git / GitHub
+- Linux
+- Cloud (Azure)
 
 ---
 
-### Conecte-se Comigo
+## 🚀 Projetos relevantes
+
+- **[MayaraBot](https://github.com/jpliratavares/MayaraBOT)**  
+  Bot de Discord em Node.js com automação, moderação e lógica orientada a eventos.
+
+- **[MDZ Recoil](https://github.com/jpliratavares/MDZ-Recoil)**  
+  Sistema em Python para automação de input, compilado em executável.
+
+- **Projetos em andamento**
+  - Automação com IA e agentes
+  - Pipelines de dados em escala
+  - Produtos SaaS com foco em eficiência e integração
+
+---
+
+## 🌐 Portfólio
+👉 **https://jplt.dev**
+
+---
+
+## 📫 Contato
 - 📧 Email: [jpliratavares@gmail.com](mailto:jpliratavares@gmail.com)
-- 🤖 Discord: [jpltdev]
-- 🔵📝 Linkedin: [jpliratavares](https://linkedin.com/in/jpliratavares)
+- 💼 LinkedIn: [linkedin.com/in/jpliratavares](https://linkedin.com/in/jpliratavares)
 
 ---
 
-Obrigado por visitar meu perfil! 😄 Estou animado para crescer na área de desenvolvimento e compartilhar meu progresso com vocês!
+💡 Curto projetos sérios, problemas difíceis e sistemas bem pensados.
