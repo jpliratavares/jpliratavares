@@ -1,72 +1,62 @@
-# João Pedro — jpliratavares
+# João Pedro de Lira Tavares
 
-Desenvolvedor focado em **backend, dados e IA aplicada**.  
-Trabalho construindo **sistemas reais**, automações inteligentes e pipelines de dados robustos.
+**Desenvolvedor de software · Pesquisador · Construtor de produtos digitais**
 
-Não curto código frágil nem solução mágica. Gosto de entender o sistema inteiro.
+> Eu observo contextos. Construo possibilidades.
 
----
+Trabalho na interseção entre **software**, **inteligência artificial aplicada** e **dados**. Gosto de transformar perguntas em protótipos funcionais, validar ideias com quem conhece o domínio e evoluir o que faz sentido até virar produto.
 
-## ⚙️ O que eu faço
-- Desenvolvimento **backend** e APIs
-- **Data Engineering** e pipelines (ETL / ELT)
-- Integração e orquestração de **IA e LLMs**
-- Automação de processos e produtos SaaS
-- Arquitetura e organização de sistemas
+[Portfólio](https://jplt.dev) · [LinkedIn](https://www.linkedin.com/in/jpliratavares/) · [E-mail](mailto:jpliratavares@gmail.com)
 
 ---
 
-## 🧠 Stack principal
+## Agora
 
-**Linguagens**
-- Python
-- JavaScript / TypeScript
-- SQL
+- Pesquisando e desenvolvendo a **LumIA** na UFPB
+- Construindo sistemas, integrações e automações na **Predilecta** e na **E2A**
+- Explorando IA aplicada à educação, RAG e inteligência de dados
+- Cursando **Licenciatura em Ciência da Computação** na UFPB
 
-**Backend & APIs**
-- FastAPI
-- Node.js
-- REST / Webhooks
+## Trabalho selecionado
 
-**Dados & IA**
-- Pandas / PySpark
-- FAISS
-- LLMs (OpenAI, ElevenLabs, etc.)
-- Automação com n8n
-- Azure Databricks / Delta Lake
+### [LumIA](https://github.com/jpliratavares/LumIA)
 
-**Infra & Dev**
-- Docker
-- Git / GitHub
-- Linux
-- Cloud (Azure)
+Plataforma educacional que transforma documentos e conteúdos acadêmicos em experiências de aprendizagem assistida. A pesquisa combina recuperação de informação, RAG e estruturas pedagógicas orientadas por **Depth of Knowledge (DOK)**.
 
----
+`Python` `FastAPI` `React` `TypeScript` `FAISS` `ChromaDB` `RAG`
 
-## 🚀 Projetos relevantes
+### Edu
 
-- **[LumIA-UFPB]((https://github.com/jpliratavares/LumIA-UFPB))**  
-  Projeto universitário com foco em uso de RAG e LLMs com base treinada referente ao conteúdo informado pelos doscentes.
+Ecossistema educacional integrado à web e ao WhatsApp. Organiza respostas de atividades, acompanha o desempenho dos alunos e transforma interações em indicadores para educadores.
 
-- **[MDZ Recoil](https://github.com/jpliratavares/MDZ-Recoil)**  
-  Sistema em Python para automação de input, compilado em executável.
+`LLMs` `APIs` `WhatsApp` `Analytics` `Data visualization`
 
-- **Projetos em andamento**
-  - Automação com IA e agentes
-  - Pipelines de dados em escala
-  - Produtos SaaS com foco em eficiência e integração
+### Predilecta & E2A
 
----
+Atuação em aplicações full-stack, integrações, automações e inteligência de dados voltadas a operações reais. Trabalho com APIs, interfaces, autenticação, regras de acesso e infraestrutura conteinerizada.
 
-## 🌐 Portfólio
-👉 **https://jplt.dev**
+`Next.js` `FastAPI` `Docker` `Redis` `REST APIs`
 
----
+### [jplt.dev](https://jplt.dev)
 
-## 📫 Contato
-- 📧 Email: [jpliratavares@gmail.com](mailto:jpliratavares@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jpliratavares](https://linkedin.com/in/jpliratavares)
+Meu portfólio também é um projeto em evolução: uma interface autoral para registrar minha trajetória e explicar como penso, pesquiso e construo.
+
+## Como eu trabalho
+
+1. **Observo o contexto** — entendo o cenário antes de escolher uma ferramenta.
+2. **Construo uma POC** — transformo a hipótese em algo funcional e demonstrável.
+3. **Valido com o domínio** — confronto a ideia com experiência e evidência.
+4. **Evoluo para produto** — estruturo arquitetura, experiência e operação.
+
+## Ferramentas
+
+**Software:** Python, TypeScript, React, Next.js, FastAPI  
+**IA e recuperação:** RAG, FAISS, ChromaDB, Sentence Transformers  
+**Dados:** PostgreSQL, Redis, analytics e visualização  
+**Infraestrutura:** Docker, Linux, Git e APIs REST
 
 ---
 
-💡 Curto projetos sérios, problemas difíceis e sistemas bem pensados.
+Aberto a conversas sobre **software, IA aplicada, pesquisa, dados e produtos digitais**.
+
+**[jplt.dev](https://jplt.dev)** · **[GitHub](https://github.com/jpliratavares)** · **[LinkedIn](https://www.linkedin.com/in/jpliratavares/)**
