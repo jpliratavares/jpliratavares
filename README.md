@@ -35,7 +35,7 @@ Ecossistema educacional integrado à web e ao WhatsApp. Organiza respostas de at
 
 Atuação em aplicações full-stack, integrações, automações e inteligência de dados voltadas a operações reais. Trabalho com APIs, interfaces, autenticação, regras de acesso e infraestrutura conteinerizada.
 
-`Next.js` `FastAPI` `Docker` `Redis` `REST APIs`
+`React.js` `FastAPI` `Docker` `Redis` `REST APIs`
 
 ### [jplt.dev](https://jplt.dev)
 
@@ -50,7 +50,7 @@ Meu portfólio também é um projeto em evolução: uma interface autoral para r
 
 ## Ferramentas
 
-**Software:** Python, TypeScript, React, Next.js, FastAPI  
+**Software:** Python, TypeScript, React.js, FastAPI  
 **IA e recuperação:** RAG, FAISS, ChromaDB, Sentence Transformers  
 **Dados:** PostgreSQL, Redis, analytics e visualização  
 **Infraestrutura:** Docker, Linux, Git e APIs REST
